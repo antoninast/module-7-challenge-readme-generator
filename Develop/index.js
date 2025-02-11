@@ -51,7 +51,7 @@ function init() {
             type: 'list',
             message: 'What will be the license for your project?',
             name: 'license',
-            choices: ["MIT", "GPL", "Apache 2.0", "BSD", "CC0"],
+            choices: ["MIT", "GPL", "Apache 2.0", "BSD", "CC0", "None"],
           },
         {
             type: 'input',
@@ -67,7 +67,7 @@ function init() {
       .then((response) => {
         console.log(response);
         const readmeText = generateMarkdown(response);
-        writeToFile('test.md', readmeText);
+        writeToFile('README.md', readmeText);
       });
 }
 

@@ -1,5 +1,10 @@
 # 07 Node.js Challenge: Professional README Generator
 
+## Challenge assignment submission
+
+- **Walkthrough Video**: [https://drive.google.com/file/d/13y2rp7K3Y9wy24NsT2nuqQfi0dSxn-2a/view](https://drive.google.com/file/d/13y2rp7K3Y9wy24NsT2nuqQfi0dSxn-2a/view)
+- **GitHub Repo**: [https://github.com/antoninast/module-7-challenge-readme-generator](https://github.com/antoninast/module-7-challenge-readme-generator)
+
 ## Your Task
 
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
